@@ -151,9 +151,9 @@ Cybersecurity Analyst skilled in vulnerability assessment, penetration testing, 
 
 
 ## Projects
--  **[Caesar Cipher](https://github.com/rahulamreshp/PRODIGY_CS_01.git)**  
-- **[Pixel Manipulation for Image Encryption](https://github.com/rahulamreshp/PRODIGY_CS_02.git)**
-- **[Password Complexity Checker](https://github.com/rahulamreshp/PRODIGY_CS_03.git)**
-- **[StrokeLogger](https://github.com/rahulamreshp/PRODIGY_CS_04.git)**
-- **[Network Packet Analyzer](https://github.com/rahulamreshp/PRODIGY_CS_05.git)**
+-  **[CipherShift](https://github.com/rahulamreshp/PRODIGY_CS_01.git)**  
+- **[CrypticLens](https://github.com/rahulamreshp/PRODIGY_CS_02.git)**
+- **[PassMetrix](https://github.com/rahulamreshp/PRODIGY_CS_03.git)**
+- **[KeySentinel](https://github.com/rahulamreshp/PRODIGY_CS_04.git)**
+- **[PacketForge](https://github.com/rahulamreshp/PRODIGY_CS_05.git)**
 - **[Packet Analyser](https://github.com/rahulamreshp/.pcap_analyser.git)**
