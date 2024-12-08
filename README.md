@@ -129,6 +129,7 @@ Cybersecurity Analyst skilled in vulnerability assessment, penetration testing, 
 <div> 
     <img src="https://img.shields.io/badge/-OffSec_OSCP_(Ongoing)-EF2D56?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite_Certified_Practitioner_(Ongoing)-FF6813?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub_Foundations-000000?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Security%2B_SY0--701-EA3943?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity-00B8D3?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-eJPT_v2_Junior_Penetration_Tester-FF8000?&style=for-the-badge&logo=eLearnSecurity&logoColor=white" />
@@ -147,6 +148,7 @@ Cybersecurity Analyst skilled in vulnerability assessment, penetration testing, 
     <img src="https://img.shields.io/badge/-Qualys_File_Integrity_Monitoring-0073A1?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_PCI_Compliance_Certified-0073A1?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_Web_Application_Scanning-0073A1?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Fundamentals-0068A5?&style=for-the-badge&logoColor=white" />
 </div>
 
 
